@@ -15,7 +15,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2022<br>
-📚 Currently learning AWS, Java, and sharpening my DSA skills<br>
+📚 Currently learning advance backend....<br>
 🎯 Goal: Build scalable software that solves real-world problems<br>
 🎲 Fun fact: I talk to my code more than to people sometimes.
 </p>
