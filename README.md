@@ -1,10 +1,53 @@
-- 👋 Hi, I’m @1Rohannaik
-- 👀 I’m interested in full stack web development and ui designing 
-- 🌱 I’m currently learning frontend web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-1Rohannaik/1Rohannaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">
+  My name is Rohan Naik (Rohan) and I'm a Full-Stack Developer <br>
+  & an Electronics and Communication Engineering (ECE) student from Bengaluru, India.
+</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+✨ Creating bugs since 2022<br>
+📚 Currently learning AWS, Java, and sharpening my DSA skills<br>
+🎯 Goal: Build scalable software that solves real-world problems<br>
+🎲 Fun fact: I talk to my code more than to people sometimes.
+</p>
+
+###
+
+<h2 align="left">🛠️ Technologies & Tools I Use</h2>
+
+###
+
+<div align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="background-color: white; padding: 5px; border-radius: 6px;" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" height="40" alt="Render" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
