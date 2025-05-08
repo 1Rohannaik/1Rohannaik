@@ -39,7 +39,7 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="background-color: white; padding: 5px; border-radius: 6px;" />
+  <img src="https://imgs.search.brave.com/TPsnyIVax2_2Bk2NxtW6on8s00MLo_0d_F-QTAJxI_Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9leHBy/ZXNzanMuY29tL2lt/YWdlcy9icmFuZC9s/b2dvLWRhcmsuc3Zn" height="40" alt="Express.js" style="background-color: white; padding: 5px; border-radius: 6px;" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
